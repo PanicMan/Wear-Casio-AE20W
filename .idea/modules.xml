@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Casio_AE-20W.iml" filepath="$PROJECT_DIR$/.idea/modules/Casio_AE-20W.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Casio_AE-20W.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Casio_AE-20W.app.iml" />
+    </modules>
+  </component>
+</project>
